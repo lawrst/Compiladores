@@ -1,0 +1,11 @@
+# Ignora os arquivos C gerados pelo Flex
+lex.yy.c
+
+# Ignora os executaveis gerados pelo GCC
+q1/q1
+q2/q2
+q3/q3
+q4/q4
+
+# Se estiver compilando no Windows, os executáveis ganham essa extensão
+*.exe
