@@ -1,0 +1,5 @@
+//Q3 entradas
+// media dos valores
+
+x = 3.5;
+if (x > 1) return x;
