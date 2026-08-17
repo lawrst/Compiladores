@@ -1,0 +1,25 @@
+//Q4 saídas
+
+1. Rodando entrada.txt
+
+ID x
+SIMBOLO =
+NUMBER 3.5
+SIMBOLO ;
+IF
+SIMBOLO (
+ID x
+SIMBOLO >
+NUMBER 1
+SIMBOLO )
+RETURN
+ID x
+SIMBOLO ;
+
+2. Falta de argumento
+
+Erro: Arquivo nao informado. Passe o arquivo como argumento.
+
+3. Arquivo inexistente
+
+Erro: Nao foi possivel abrir o arquivo indicado (erro.txt).
