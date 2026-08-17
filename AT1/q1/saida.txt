@@ -1,0 +1,8 @@
+//Q1 saídas
+
+linhas: 2
+palavras: 10
+caracteres: 53
+inteiros: 1
+floats: 1
+pontuacoes: 3
