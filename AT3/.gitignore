@@ -1,0 +1,10 @@
+# arquivos em C gerados pelo Flex e Bison
+lex.yy.c
+calc.tab.c
+calc.tab.h
+calc.output
+
+# executaveis gerados pelo GCC
+*.exe
+calc
+minha_calc
