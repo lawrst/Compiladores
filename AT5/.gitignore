@@ -1,0 +1,17 @@
+# Ignora o arquivo C gerado pelo Flex (o nome e sempre padrao)
+lex.yy.c
+
+# Ignora todos os arquivos C e H gerados pelo Bison (calc, decl, etc.)
+*.tab.c
+*.tab.h
+*.output
+
+# Ignora todos os executaveis do Windows
+*.exe
+*.json
+*.txt
+
+# Ignora os executaveis sem extensao gerados no Linux
+calc
+decl
+minha_calc
