@@ -5,10 +5,11 @@ lex.yy.c
 *.tab.c
 *.tab.h
 *.output
-*.txt
+
 
 # Ignora todos os executaveis do Windows
 *.exe
+*.txt
 
 # Ignora os executaveis sem extensao gerados no Linux
 calc
